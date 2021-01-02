@@ -5,7 +5,6 @@
     "@typescript-eslint"
   ],
   "extends": [
-    "airbnb-typescript",
     "plugin:@typescript-eslint/recommended"
   ],
   "parserOptions": {

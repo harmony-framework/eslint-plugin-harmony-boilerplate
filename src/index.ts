@@ -1,9 +1,9 @@
 module.exports = {
 	configs: {
 		recommended: {
-			plugins: ['react-redux-recommended'],
+			plugins: ['harmony-boilerplate'],
 			rules: {
-				'react-redux-recommended/no-component-did-update': 'error'
+				'harmony-boilerplate/no-component-did-update': 'error'
 			}
 		}
 	},

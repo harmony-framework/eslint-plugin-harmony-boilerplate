@@ -9,7 +9,6 @@
       "@base/*": ["base/*"]
     },
     "lib": ["es5", "es6", "es7", "es2017", "dom", "esnext.asynciterable"],
-    "jsx": "react",
     "sourceMap": true,
     "allowJs": false,
     "forceConsistentCasingInFileNames": true,
