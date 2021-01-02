@@ -5,7 +5,7 @@ module.exports = {
 				if (node && node.key && node.key.name === 'componentDidUpdate') {
 					context.report({
 						node,
-						message: 'Dont use component did update'
+						message: '\'componentDidUpdate\' is unsafe for use. Update the component to use this logic inside saga/callback/selector instead.'
 					});
 				}
 			},
