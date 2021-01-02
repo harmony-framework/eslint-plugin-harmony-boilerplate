@@ -347,3 +347,8 @@ npm-debug.log
 /.idea
 /.vscode/launch.json
 dist
+
+package-lock.json
+# IntelliJ
+boardGamesScanResults/
+lib
