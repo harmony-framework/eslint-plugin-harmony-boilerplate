@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-harmony-boilerplate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Harmony Best Practices Plugin to keep developers alignment with best practices",
   "main": "dist/index.js",
   "module": "lib/index.js",
